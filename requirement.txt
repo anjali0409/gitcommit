@@ -1,10 +1,5 @@
 numpy
-<<<<<<< HEAD
 pandas
 matplot.lib
 sklearn
-=======
-sklearn
-pandas
-plotly
->>>>>>> developer1
+flask
